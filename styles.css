@@ -1,0 +1,65 @@
+.navbar {
+  background-color: #4E7C80;
+}
+
+.navbar-text,
+.nav-link,
+.nav-link.active {
+  color: #fff !important;
+  font-family: "georgia", serif ;
+}
+
+.navbar-brand {
+  color: #fff !important;
+  font-family: "copperplate", serif;
+  font-size: xx-large !important;
+}
+
+
+body {
+  background-color: #C2D3D3 !important;
+}
+
+header {
+  padding-bottom: 4cm;
+}
+
+img {
+  border-radius: 20px;
+}
+
+footer {
+  background-color: #0B3333;
+  padding: 3mm;
+  color: white;
+  text-align: center;
+  margin-top: 3cm;
+  font-family: "georgia", serif;
+}
+
+h1 {
+  font-family: "Snell Roundhand";
+  color: black;
+  
+}
+
+p {
+  font-family: "georgia", serif;
+  margin: 1cm;
+  font-size:x-large
+}
+
+
+ .c-item {
+  height: 600px;
+
+}
+
+.c-img {
+  height: 100%;
+  object-fit: cover;
+}
+
+.container {
+  margin: 3cm;
+}
